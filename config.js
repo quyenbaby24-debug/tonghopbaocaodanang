@@ -5,7 +5,7 @@
 
 // URL Apps Script sau khi deploy DriveReader.gs
 // Lấy tại: script.google.com → Triển khai → Triển khai mới → Ứng dụng web
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyvQeWn7oASbweF5D08QY1lZuOmdhBQ4IQMRlY5wbcYc5wR4rtPv0e-btefHN8LxOA/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz5oJ5Rl7UFw6cgikSsiZwrADnx4FSjaZjVkc13GsVEZFemt3ggr-CcuKVyCq6U_91x/exec';
 
 // URL Apps Script của app Báo cáo (CodeV3.gs)
 // App sẽ tự động lấy thư mục Drive từ đây — không cần paste link thư mục thủ công
