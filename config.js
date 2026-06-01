@@ -10,7 +10,7 @@ const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyvQeWn7oASbweF
 // URL Apps Script của app Báo cáo (CodeV3.gs)
 // App sẽ tự động lấy thư mục Drive từ đây — không cần paste link thư mục thủ công
 // Lấy tại: script.google.com → (project CodeV3) → Triển khai → Ứng dụng web → Copy URL
-const BAOCAO_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwx0drez16zrYw4GuT8tRHB4Sp6T5CJSXiPfh6ot0U3Udl5CxkIv-CZe-FBw7i5Lg8cFA/exec';
+const BAOCAO_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby2JkCeDLgZy5RO8t5ai7-L0ALvfpnTYgoqC9sjlClMS-j0jx0ibkwXlBh1FFPZDJ4G/exec';
 
 // ⚠️ DEFAULT_DRIVE_FOLDER không còn dùng nữa — app tự lấy qua BAOCAO_SCRIPT_URL
 // const DEFAULT_DRIVE_FOLDER = '';
